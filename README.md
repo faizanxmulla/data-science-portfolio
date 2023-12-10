@@ -50,6 +50,9 @@ Repository containing portfolio of data-science projects completed by me for aca
 ## 
 ## Kaggle Datasets 
 ### Machine Learning
+- [Flight Price Prediction](https://github.com/faizanxmulla/data-science-portfolio/tree/main/Kaggle%20Datasets/ML/flight-price-prediction) (**END-to-END**)
+    : A model to predict the value of a given house in the real estate market using various statistical analysis tools & regression techniques.
+
 - [Advance-House Price Prediction](https://github.com/faizanxmulla/data-science-portfolio/blob/main/Kaggle%20Datasets/ML/Advance%20House%20Price%20Prediction/houseprediction.ipynb)
     : A model to predict the value of a given house in the real estate market using various statistical analysis tools & regression techniques.
 
@@ -103,16 +106,13 @@ Repository containing portfolio of data-science projects completed by me for aca
 
 *Tools: scikit-learn,Numpy, Pandas, Seaborn, Matplotlib etc.*
 
-
 ## 
-### Deep Learning 
-- [Breast Cancer Prediction](https://github.com/faizanxmulla/data-science-portfolio/blob/main/Kaggle%20Datasets/DL/Breast%20Cancer%20Prediction/breast_ann.ipynb)
-    : Building a deep learning model (ANN) to classify the tumor into malignant OR benign.
-
-- [Mushroom Classification](https://github.com/faizanxmulla/data-science-portfolio/blob/main/Kaggle%20Datasets/DL/Mushroom%20Classification/mushroom-ann.ipynb)
-    : A binary-classification problem to classify given mushroom as edible(e) or poisonous(p) using ANN.  
-
-*Tools: keras ,Tensorflow etc.*
+## 
+## A/B Testing
+- [A/B testing on Advertisement Data](https://github.com/faizanxmulla/data-science-portfolio/blob/main/AB%20-%20Testing/AB%20-%20test.ipynb)
+  
+    - Involves A/B testing on an advertisement dataset, examining the impact of a new distribution strategy on ad success rates.
+    - Statistical hypothesis testing is employed to compare control and exposed groups, aiming to determine the effectiveness of the new design strategy.
 
 ## 
 ## 
